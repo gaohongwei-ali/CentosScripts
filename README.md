@@ -1,9 +1,10 @@
 # CentosScripts
 There are about Centos scripts
 
+###############################################Change_network.tar
 
-#环境依赖
-Linux localhost.localdomain 4.9.93-010.ali3000.alios7.x86_64 #1 SMP Fri Apr 20 00:18:51 CST 2018 x86_64 x86_64 x86_64 GNU/Linux
+#环境
+Centos 7.x
 
 #使用问题
 mode1模式下eth0 link down无法自动切换至eth1
@@ -41,4 +42,7 @@ systemctl start change_network
 #├── nohup.out / 没用
 #└── README / help you and help me. baby
 #
+
+
+###############################################device_name-1.1.9.sh
 
